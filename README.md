@@ -2,6 +2,7 @@
 - 👀 I’m interested in Blockchains, applied cryptography, billinear maps, formal verification, applied blockchain in land registration and health care ecosystem
 - 🌱 I’m currently learning BGN curves, Lattice based cryptography
 - 💞️ I’m looking to collaborate on blockchains, sharding in blockchains
+- :credit_card:	Past implementations include secure hardware wallet for blockchain transactions
 - 📫 Drop me a mail @rasd.phd@gmail.com
 
 <!---
